@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Adrian Williams — Identity & Access · AI builder · Tallahassee, FL" width="100%" />
+  <img src="./assets/banner.svg" alt="Adrian Williams — IT · Cloud · Cybersecurity · AI builder · FL" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=A4502F&center=true&vCenter=true&width=640&height=36&lines=identity+%26+access+%40+City+of+Tallahassee;building+AI+after+my+9+to+5;Entra+ID+%C2%B7+Conditional+Access+%C2%B7+MFA;currently+building%3A+Sentinel+ID" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=A4502F&center=true&vCenter=true&width=640&height=36&lines=IT+%26+security+in+local+government;cloud+%C2%B7+cybersecurity+%C2%B7+identity;building+AI+after+my+9+to+5;currently+building%3A+Sentinel+ID" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,10 +30,10 @@
 
 ```yaml
 name: Adrian Williams
-role: Technical Support Analyst, Identity & Access (City of Tallahassee)
+location: FL
+role: IT Analyst, Local Government
 education: BS Cyber Criminology (CS track), Florida State University
-certs: [ISC2 Certified in Cybersecurity (CC)]
-focus: [identity security, AI agents, local AI]
+focus: [cloud (Microsoft 365 / Entra ID), cybersecurity, identity & access, AI agents, local AI, automation]
 fun_fact: Third Culture Kid (Panama, Germany, Nigeria, Saudi Arabia, Spain)
 ```
 
@@ -41,13 +41,13 @@ fun_fact: Third Culture Kid (Panama, Germany, Nigeria, Saudi Arabia, Spain)
 
 ### `02` // experience
 
-**Technical Support Analyst — Identity & Access** · *City of Tallahassee*
+**IT Analyst — Local Government**
 
-- **Account Provisioning & Lifecycle** — Manage vendor account provisioning, onboarding/offboarding workflows, and directory hygiene across hybrid identity environments.
-- **Directory & Group-Based Access** — Administer **Microsoft Entra ID** and on-premises **Active Directory** security groups to enforce least-privilege access across municipal applications.
-- **Authentication & Policy Troubleshooting** — Resolve **Conditional Access** policy evaluations, **MFA** registration and enforcement issues, and sign-in blocks.
-- **Incident & Compromised-Account Response** — Execute compromised-account containment: session revocation, credential resets, MFA re-registration, and sign-in log review.
-- **Microsoft 365 Administration** — Handle day-to-day **M365** tenant administration, licensing assignments, mailbox permissions, and user support escalations.
+- Cloud & identity administration across Microsoft Entra ID, Active Directory, and Microsoft 365 for a large organization
+- Account provisioning and group-based access management
+- Security operations support: Conditional Access & MFA troubleshooting, compromised-account response (blocking sign-in, revoking sessions)
+- Endpoint, network, email, and application support and troubleshooting
+- PowerShell automation and technical documentation
 
 ---
 
@@ -73,11 +73,11 @@ fun_fact: Third Culture Kid (Panama, Germany, Nigeria, Saudi Arabia, Spain)
 ### `05` // find me
 
 <p align="center">
-  <a href="[LINK]">
-    <img src="https://img.shields.io/badge/Portfolio-%5BLINK%5D-A4502F?style=for-the-badge&logo=safari&logoColor=FAF5EE&labelColor=2B211C" alt="Portfolio" />
+  <a href="https://linkedin.com/in/adrian-williams-433b39250">
+    <img src="https://img.shields.io/badge/LinkedIn-Adrian_Williams-8C4A32?style=for-the-badge&logo=linkedin&logoColor=FAF5EE&labelColor=2B211C" alt="LinkedIn" />
   </a>
-  <a href="[LINK]">
-    <img src="https://img.shields.io/badge/LinkedIn-%5BLINK%5D-8C4A32?style=for-the-badge&logo=linkedin&logoColor=FAF5EE&labelColor=2B211C" alt="LinkedIn" />
+  <a href="https://github.com/CsAdrian18">
+    <img src="https://img.shields.io/badge/GitHub-CsAdrian18-A4502F?style=for-the-badge&logo=github&logoColor=FAF5EE&labelColor=2B211C" alt="GitHub CsAdrian18" />
   </a>
   <a href="https://www.tiktok.com/@adriandior1">
     <img src="https://img.shields.io/badge/TikTok-@adriandior1-6E473B?style=for-the-badge&logo=tiktok&logoColor=FAF5EE&labelColor=2B211C" alt="TikTok @adriandior1" />

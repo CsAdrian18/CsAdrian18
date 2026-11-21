@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%" role="img" aria-label="Adrian Williams — Identity &amp; Access · AI builder · Tallahassee, FL">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%" role="img" aria-label="Adrian Williams — IT · Cloud · Cybersecurity · AI builder · FL">
   <defs>
     <!-- Rust to Espresso primary gradient -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -71,7 +71,7 @@
 
     <!-- Top-right editorial issue stamp -->
     <text x="1128" y="64" text-anchor="end" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace" font-size="11.5" fill="#E6C3AD" fill-opacity="0.65" letter-spacing="2.5">
-      IAM // AI // 30.4383° N
+      IT // CLOUD // SEC // AI // FL
     </text>
 
     <!-- Main Name in Bold Serif -->
@@ -80,17 +80,17 @@
     </text>
 
     <!-- Editorial Accent Rule -->
-    <rect x="74" y="192" width="520" height="1.5" fill="url(#rule-grad)" />
+    <rect x="74" y="192" width="560" height="1.5" fill="url(#rule-grad)" />
     <rect x="74" y="191.5" width="44" height="2.5" fill="#E29578" />
 
     <!-- Subtitle -->
     <text x="74" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#EFE3D5" letter-spacing="1.2">
-      Identity &amp; Access <tspan fill="#D98A63" font-weight="600">·</tspan> AI builder <tspan fill="#D98A63" font-weight="600">·</tspan> Tallahassee, FL
+      IT <tspan fill="#D98A63" font-weight="600">·</tspan> Cloud <tspan fill="#D98A63" font-weight="600">·</tspan> Cybersecurity <tspan fill="#D98A63" font-weight="600">·</tspan> AI builder <tspan fill="#D98A63" font-weight="600">·</tspan> FL
     </text>
 
     <!-- Bottom editorial micro-caption -->
     <text x="74" y="276" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace" font-size="12" fill="#C9B3A3" fill-opacity="0.72" letter-spacing="1.4">
-      ENTRA ID  /  ZERO TRUST  /  AGENTIC WORKFLOWS  /  LOCAL AI
+      CLOUD &amp; IDENTITY  /  SECURITY OPS  /  AI AGENTS  /  AUTOMATION
     </text>
 
     <!-- Bottom-right registration mark -->
